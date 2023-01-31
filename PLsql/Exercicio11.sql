@@ -1,0 +1,2 @@
+-- Escreva um bloco PL/SQL que determine e exiba a quantidade de caracteres vogais e 
+-- Consoantes em uma string.
